@@ -1,0 +1,16 @@
+.body{
+    display: flex;
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  section{
+
+   
+    margin:10px;
+    padding:10px;
+
+  }
+ 
